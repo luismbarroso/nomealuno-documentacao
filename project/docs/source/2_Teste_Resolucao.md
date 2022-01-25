@@ -1,7 +1,7 @@
-# Teste 2 
+# Teste 2
 ## Introdução à Programação
 
-### 1) [2,5 Valores] Qual o output deste programa?
+#### 1) [2,5 Valores] Qual o output deste programa?
 
         #include <stdio.h>
         #define DIM 5
