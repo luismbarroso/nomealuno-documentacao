@@ -8,3 +8,4 @@ O presente documento tem como objetivo principal descrever todo o trabalho reali
    :maxdepth: 5
    
    line32
+   2_Teste_Resolucao
